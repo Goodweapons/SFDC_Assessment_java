@@ -1,0 +1,12 @@
+package com.capgemini2.sfdc;
+
+public class smallest_num {
+	public static void main(String[] args) {
+		int a=20;
+		int b=151;
+		int smallest=a<b?a:b;
+		
+		System.out.println(smallest);
+	}
+
+}
